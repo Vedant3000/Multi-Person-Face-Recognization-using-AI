@@ -42,13 +42,13 @@ Access the interface at http://localhost:5000 to start monitoring and managing a
 - Change the directory to the cloned repository
 - Run the following command to create the docker image
     1. On Server
-        - ```
-          docker build -t Multi-Person-Face-Recognition:latest .
-          ```
+         ```
+         docker build -t Multi-Person-Face-Recognition:latest .
+         ```
     2. On Local Machine
-        - ```
-          docker build -t Multi-Person-Face-Recognition:latest -f Dockerfile.local .
-          ```
+       ```
+       docker build -t Multi-Person-Face-Recognition:latest -f Dockerfile.local .
+       ```
 ## Results Screenchots
 
 ![Results](results.png)

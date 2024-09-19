@@ -49,7 +49,7 @@ Access the interface at http://localhost:5000 to start monitoring and managing a
        ```
        docker build -t Multi-Person-Face-Recognition:latest -f Dockerfile.local .
        ```
-## Results Screenchots
+## Results Screenshots
 
 ### Inferred Faces Output 
 ![Results](results.png)

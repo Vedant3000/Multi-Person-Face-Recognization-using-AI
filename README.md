@@ -24,21 +24,21 @@ Flask Web Application: The project includes a sleek and interactive Flask web ap
 - Docker 🐋 (for containerization)
 ## 🚀 How to Run the Project
 1. Clone the Repository:
-`git clone https://github.com/Vedant3000/Multi-Person-Face-Recognization-using-AI.git`
-`cd Multi-Person-Face-Recognization-using-AI`
+```git clone https://github.com/Vedant3000/Multi-Person-Face-Recognization-using-AI.git```
+```cd Multi-Person-Face-Recognization-using-AI```
 2. Install Dependencies:
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 3. Run the Flask App:
-`python src/app.py`
+```python src/app.py```
 Access the interface at http://localhost:5000 to start monitoring and managing attendance.
 4. Creating the Docker image:
 - Clone the repository
 - Change the directory to the cloned repository
 - Run the following command to create the docker image
     1. On Server
-        - `docker build -t Multi-Person-Face-Recognition:latest .`
+        - ```docker build -t Multi-Person-Face-Recognition:latest .```
     2. On Local Machine
-        - `docker build -t Multi-Person-Face-Recognition:latest -f Dockerfile.local .`
+        - ```docker build -t Multi-Person-Face-Recognition:latest -f Dockerfile.local .```
 ## Results Screenchots
 
 ![Results](results.png)

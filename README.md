@@ -51,8 +51,10 @@ Access the interface at http://localhost:5000 to start monitoring and managing a
        ```
 ## Results Screenchots
 
+### Inferred Faces Output 
 ![Results](results.png)
 
+### Inferred Faces Output as Report 
 ![inferred_faces](inferred_faces.png)
 
 

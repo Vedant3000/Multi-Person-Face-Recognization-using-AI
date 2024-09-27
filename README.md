@@ -12,9 +12,10 @@ Leveraging the latest Deep Learning techniques, the project efficiently processe
 - 🌐 Flask Web Interface: The project features a user-friendly Flask web application for managing the system, viewing live attendance records, and interacting with the biometric data.
 - 📦 Containerization with Docker: The entire system is containerized using Docker, ensuring smooth deployment, scalability, and easy maintenance.
 ## 🖥️ User Interface
-Flask Web Application: The project includes a sleek and interactive Flask web app that provides an intuitive dashboard for monitoring live video streams, managing attendance records, and accessing personnel data. This makes it easy for administrators to operate the system.
 
-![User Interface](flask.png)
+   Flask Web Application: The project includes a sleek and interactive Flask web app that provides an intuitive dashboard for monitoring live video streams, managing             attendance records, and accessing personnel data. This makes it easy for administrators to operate the system.
+
+
 
 ## ⚙️ Tech Stack
 - Python 🐍

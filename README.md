@@ -37,6 +37,7 @@ pip install -r requirements.txt
 python src/app.py
 ```
 Access the interface at http://localhost:5000 to start monitoring and managing attendance.
+
 7. Creating the Docker image:
 - Clone the repository
 - Change the directory to the cloned repository
@@ -52,10 +53,9 @@ Access the interface at http://localhost:5000 to start monitoring and managing a
 ## Results Screenshots
 
 ### Inferred Faces Output 
-![Results](results.png)
+![Results](face1.png)
 
-### Inferred Faces Output as Report 
-![inferred_faces](inferred_faces.png)
+![inferred_faces](face2.png)
 
 
 ## 📝 Dataset Creation and Processing
